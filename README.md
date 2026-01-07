@@ -56,3 +56,5 @@ A Java-based implementation of the classic Flappy Bird game developed using **Ob
 - **Department:** Computer Science
 - **Submitted To:** Engr. Gul Saba
 - **Submission Date:** 10-JUN-2024
+
+**⭐ If you find this project useful, please give it a star on GitHub!**
