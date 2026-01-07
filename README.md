@@ -1,6 +1,12 @@
 # Flappy Bird Game - Java OOP Project
 A Java-based implementation of the classic Flappy Bird game developed using **Object-Oriented Programming (OOP)** principles. This project includes a graphical user interface built with Swing, user authentication, and score tracking via Microsoft Access database integration.
 
+<img width="710" height="410" alt="image" src="https://github.com/user-attachments/assets/bcc31d75-297c-48d0-85ff-e851be94775c" />
+<img width="706" height="429" alt="image" src="https://github.com/user-attachments/assets/be00aa79-6336-479f-8703-cd24f52b55f8" />
+<img width="708" height="442" alt="image" src="https://github.com/user-attachments/assets/d4f27f9f-5e2c-4654-9d12-6dc64c045f8d" />
+<img width="708" height="447" alt="image" src="https://github.com/user-attachments/assets/92811fd4-5559-4b45-93bc-1456b7ae8cd3" />
+<img width="709" height="451" alt="image" src="https://github.com/user-attachments/assets/6c39172a-cc3b-4a27-bdd9-68fdcf14a32d" />
+
 ## 🎮 Features
 - Classic Flappy Bird gameplay with smooth bird controls and collision detection
 - User Authentication System (Login & Sign-Up) with database integration
